@@ -6,3 +6,20 @@ color-modes = true
 
 [editor.cursor-shape]
 insert = "bar"
+
+
+#new dot files
+theme = "sidra"
+[editor]
+soft-wrap.enable = true
+color-modes = true
+cursorline = true
+mouse = false
+bufferline = "multiple"
+
+[editor.cursor-shape]
+insert = "bar"
+#select = "underline"
+
+[editor.indent-guides]
+render = true
